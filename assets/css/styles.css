@@ -14,17 +14,22 @@ font-family: 'Titillium Web', sans-serif;
   background-color: #73398A;
 }
 
-.bossanova {
-  color: #502866;
+.bg-mountain-meadows {
+  background-color: #1FB893;
 }
 
+.purple-button-hover:hover {
+  border: 1px solid #502866;
+  border-radius: 5px;
+  background-color: #502866;
+  padding: 0 10px 0 10px;
+}
 
-
-    .purple-button-hover:hover {
-      border: 1px solid #502866;
-      border-radius: 5px;
-      background-color: #502866;
-      padding: 0 10px 0 10px;
+.orange-button {
+  background-color: #E4683B;
+  border: 1px solid #E4683B;
+  border-bottom: 4px solid #BA5532;
+  border-radius: 3px;
 }
 
 
